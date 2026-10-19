@@ -18,7 +18,7 @@ I'm a second-year CSE student interested in software development, machine learni
 - **[BatteryDoctorAI](https://github.com/AnanyaShreyasee0905/BatteryDoctorAI)** — An ongoing project exploring machine learning for EV battery fault detection.
 - **[CrimeVault](https://github.com/AnanyaShreyasee0905/Crime-Vault)** — An academic case management application using Java, Spring Boot, JDBC, and Oracle Database.
 - **[Automotive Fuel-Vapor Monitor](https://github.com/AnanyaShreyasee0905/automotive-fuel-vapor-monitor)** — An ESP32-based prototype for sensor monitoring and alerts.
-- **CyberOracle** — A cybersecurity prototype exploring network attack forecasting using synthetic data.
+- **[CyberOracle](https://github.com/DuradarsheeChinara/CyberOracle)** — A cybersecurity prototype exploring network attack forecasting and simulated defensive actions using synthetic data.
 
 ### Currently Learning
 
